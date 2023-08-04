@@ -1,5 +1,8 @@
 # PSP 3D Plugin
-This "Driver" allows to play games in Stereoscopic/Anagliph 3D on your PSP or PSP Go! (Play Station Portable)
+<img src="images/psp_cover.png"
+      alt="closeup"
+      width="1080"/>
+## This "Driver" allows to play games in Anagliph Stereoscopic 3D on your PSP or PSP Go! (Play Station Portable)
 
 
 # 3D Features:
@@ -14,10 +17,10 @@ This "Driver" allows to play games in Stereoscopic/Anagliph 3D on your PSP or PS
 # Cons:
 - Increases resource usage and battery drain
 
-# Compatibility:
+# Compatibiles PSPs:
 - You need a PSP with a custom firmware installed. (The most recent custom firmwares are TN-EN and PRO, up to PRO-B5. They are supported by the plugin. I suggest you to install the "temporary" version so the custom firmware unloads everytime you shut down the PSP completely).
 
-
+# 3D "red/blue" Anagliph Glasses
 
 
 # Supported Games
@@ -102,38 +105,32 @@ This "Driver" allows to play games in Stereoscopic/Anagliph 3D on your PSP or PS
 - ... more! <br />
 </details>
 
-
-# 3D "red/blue" Anagliph Glasses
-
-
 # Plugin Download
 Download Last Release v2.2 here!
 
 # How to install the 3D Plugin:  
-- Download the 3D Plugin .zip archive from this page
-- Extract the plugin into the root folder of your PSP
-- If you have a PSP, Open the game.txt file and add this line: ms0:/seplugins/psp3d.prx 1
-- Instad, if you have a PSP Go, Open the game.txt file and add this line: ef0:/seplugins/psp3d.prx 1
-- Deactivate PSP HUD
-- Deactivate Custom Home Plugin
-- Open the 3D menu pressing the musical note key on the PSP
-
-
-# Supported Games (100+)
-
-
-<a href="https://paypal.me/donationMikel">
- <img src="images/donate_cicon.png"
-      alt="closeup"
-      width="250"/></a>
-
-
+<details>
+  <summary>Click to show</summary>
+  <br/>
+- Download the 3D Plugin .zip archive from this page <br/>
+- Extract the plugin into the root folder of your PSP <br/>
+- If you have a PSP, Open the game.txt file and add this line: ms0:/seplugins/psp3d.prx 1 <br/>
+- Instad, if you have a PSP Go, Open the game.txt file and add this line: ef0:/seplugins/psp3d.prx 1 <br/>
+- Deactivate PSP HUD <br/>
+- Deactivate Custom Home Plugin <br/>
+- Open the 3D menu pressing the musical note key on the PSP <br/>
+  
+</details>
 
 
 # Credits
 - Developer: PSPWizard (aka AnMaBaGiMa)
 - This documentation: Mik-el (me). I hope this repo will bring some new love to 3D and to the PSP. 
 
+<a href="https://paypal.me/donationMikel">
+ <img src="images/donate_icon.png"
+      alt="closeup"
+      width="250"/></a>
 
 
 # My Social pages
