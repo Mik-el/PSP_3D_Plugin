@@ -17,7 +17,7 @@
 # Cons:
 - Increases resource usage and battery drain
 
-# Compatibiles PSPs:
+# Compatibile PSPs:
 - You need a PSP with a custom firmware installed. (The most recent custom firmwares are TN-EN and PRO, up to PRO-B5. They are supported by the plugin. I suggest you to install the "temporary" version so the custom firmware unloads everytime you shut down the PSP completely).
 
 # 3D "red/blue" Anagliph Glasses
