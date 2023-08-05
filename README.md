@@ -23,7 +23,7 @@
 # 3D "red/blue" Anagliph Glasses
 
 
-# Supported Games
+# List of Tested Games
 <details>
   <summary>Click to show</summary>
   <br />
