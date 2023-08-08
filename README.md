@@ -2,11 +2,11 @@
 <img src="images/psp_cover.png"
       alt="closeup"
       width="1080"/>
-## This "Driver" allows to play games in Anagliph Stereoscopic 3D on your PSP or PSP Go! (Play Station Portable)
+## This "Driver" allows to play games in Anaglyph Stereoscopic 3D on your PSP or PSP Go! (Play Station Portable)
 
 
 # 3D Features:
-- Multiple Anagliph modes (red/cyan, magenta/green ...)
+- Multiple Anaglyph modes (red/cyan, magenta/green ...)
 - Adjustable 3D disparity (intensity of 3D)
 - Adjustable Convergence
 
