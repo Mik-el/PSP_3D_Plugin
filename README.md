@@ -6,7 +6,7 @@
 
 
 # 3D Features:
-- Multiple Anagliph modes (red/cyan ...)
+- Multiple Anagliph modes (red/cyan, magenta/green ...)
 - Adjustable 3D disparity (intensity of 3D)
 - Adjustable Convergence
 
@@ -24,7 +24,7 @@
 <a href="https://paypal.me/donationMikel">
  <img src="images/glasses.png"
       alt="closeup"
-      width="250"/></a>
+      width="300"/></a>
 
 # List of Tested Games
 <details>
