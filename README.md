@@ -21,10 +21,10 @@
 - You need a PSP with a custom firmware installed. (The most recent custom firmwares are TN-EN and PRO, up to PRO-B5. They are supported by the plugin. I suggest you to install the "temporary" version so the custom firmware unloads everytime you shut down the PSP completely).
 
 # 3D Glasses
-<a href="https://amzn.to/3Qw45gu">
+<a href="https://amzn.to/3DKYuuW">
  <img src="images/glasses.png"
       alt="closeup"
-      width="300"/></a>
+      width="400"/></a>
 
 # List of Tested Games
 <details>
@@ -154,4 +154,4 @@ Download Last Release v2.2 [here][download]!
 [cam]: <http://bit.ly/2mffw0h>
 [tg]:<https://bit.ly/Mikel_TG>
 [download]:<https://github.com/Mik-el/PSP_3D_Plugin/releases/tag/v2.21>
-[glasses]:<https://amzn.to/3Qw45gu>
+[glasses]:<https://amzn.to/3DKYuuW>
